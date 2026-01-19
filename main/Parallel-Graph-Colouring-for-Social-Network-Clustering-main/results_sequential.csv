@@ -1,0 +1,2 @@
+Algorithm,Threads,TotalColors,ExecutionTime,CPUTime,MeanColor,ColorVariance
+Sequential,1,89,0.000696622,0.072134,7.4818,127.273
